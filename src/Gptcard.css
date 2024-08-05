@@ -1,0 +1,26 @@
+.card{
+    
+  background-size: cover;
+  background-position: center;
+  
+  
+ 
+  
+  margin: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-left: 100PX;
+}
+.W{
+ 
+  margin-right: 200PX;
+ 
+
+}
+.y{
+  margin-top: 330px;
+  margin-right: 80px;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+}

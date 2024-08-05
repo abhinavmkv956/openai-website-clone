@@ -1,0 +1,15 @@
+.Trymain{
+    width: 75%;
+    height: 400px;
+    background-color: white;
+    margin-top: 150px;
+    margin-left: 200px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+   
+
+    
+}

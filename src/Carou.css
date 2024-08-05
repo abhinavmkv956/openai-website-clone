@@ -1,0 +1,45 @@
+.d-block{
+  height: 600px;
+  width: 96%;
+  background-repeat: no-repeat;
+
+
+
+}
+.items{
+  margin-left: 30px;
+}
+
+.carDiv{
+  margin-bottom: 160px;
+  margin-right: 50px;
+}
+.carh1{
+  font-size:3.37125rem;
+  line-height: 110%;
+  letter-spacing: -.02em;
+  font-weight: 400;
+}
+.carp{
+  font-size: 1.4175rem;
+  letter-spacing: -.0026em;
+}
+.carDiv button{
+  border-radius: 200px;
+}
+.car2Div{
+  background-color: rgb(36, 39, 39);
+}
+.input{
+  width: 500px;
+  margin-left: 255px;
+  margin-top: 30px;
+
+ 
+}
+
+
+
+
+
+

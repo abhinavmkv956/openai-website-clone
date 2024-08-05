@@ -1,0 +1,24 @@
+.d-inline-block{
+    width: 30px;
+    margin-left: 250px;
+    margin-top: 5px;
+}
+.bg-body-tertiary{
+    background-color:rgba(10, 10, 10, 0.477);
+   height: 40px;
+}
+/* Nav.Link{
+    margin-right: 20px;
+}
+.NavLink{
+   
+    margin-top: -30px;
+    margin-left: 600px;
+   font-size: 15px;
+} */
+
+.NavLink{
+    display: flex;
+}
+
+
